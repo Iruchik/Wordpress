@@ -1,1 +1,1 @@
-Сайт Wordpress.
+Wordpress website.
